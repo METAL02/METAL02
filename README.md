@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to use github
 - 🌱 I’m currently learning how to use github
 - 💞️ I'm looking to collaborate on usa to study
-- 📫 How to reach me Ponta Grosso, Rua Maria de Lurdes Ferreira 660
+- 📫 How to reach me Ponta Grossa, Rua Maria de Lurdes Ferreira 660
 
 <!---
 METAL02/METAL02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
