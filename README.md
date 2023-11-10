@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @METAL02
 - 👀 I’m interested in learning how to use github
 - 🌱 I’m currently learning how to use github
-- 💞️ I'm looking to collaborate on usa to study
+- 💞️ I'm looking to collaborate on to study
 - 📫 How to reach me Ponta Grossa, Rua Maria de Lurdes Ferreira 660
 
 <!---
